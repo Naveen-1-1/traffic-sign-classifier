@@ -1,0 +1,21 @@
+# Core Deep Learning Framework
+tensorflow==2.15.0
+
+# Image Processing
+opencv-python==4.8.1.78
+
+# Numerical Computing
+numpy==1.24.3
+pandas==2.1.3
+
+# Visualization
+matplotlib==3.8.2
+
+# Machine Learning Utilities
+scikit-learn==1.3.2
+
+# Progress Bars
+tqdm==4.66.1
+
+# Model Serialization
+h5py==3.10.0
