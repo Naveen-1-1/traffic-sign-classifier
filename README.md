@@ -9,7 +9,7 @@ A deep learning-powered traffic sign classifier built with TensorFlow/Keras that
 
 ## 🌐 Live Demo
 
-**Try it yourself:** [https://huggingface.co/spaces/NaveenShankar1/traffic-sign-classifier](https://huggingface.co/spaces/NaveenShankar1/traffic-sign-classifier)
+**Try it yourself:** [https://traffic-sign-classifier.streamlit.app/](https://traffic-sign-classifier.streamlit.app/)
 
 Upload any traffic sign image and get instant predictions with confidence scores!
 
